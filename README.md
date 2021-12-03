@@ -5,3 +5,6 @@
 * Lecture 3 Introduction to NumPy How to use NumPy for computing on data.
 * Lecture 4 Introduction to pandas An introduction to using pandas to manage and analyze your data.
 * Lecture 5 Plotting Data A brief primer.
+
+
+*Texto de prueba
